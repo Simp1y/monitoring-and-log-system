@@ -1,6 +1,6 @@
 # Monitoring-and-log-system
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://github.com/yubozhao/loki/blob/documentation-for-aws-storage/docs/logo_and_name.png">
 </p>
 <h3>Grafana:</h3> The open platform for analytics and monitoring.
 
