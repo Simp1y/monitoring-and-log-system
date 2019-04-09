@@ -1,5 +1,5 @@
 # Monitoring-and-log-system
-Grafana: The open platform for analytics and monitoring.
+<h1>Grafana:</h1> The open platform for analytics and monitoring.
 
 Prometheus:  An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
 
