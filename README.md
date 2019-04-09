@@ -1,4 +1,7 @@
 # Monitoring-and-log-system
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 <h3>Grafana:</h3> The open platform for analytics and monitoring.
 
 <h3>Prometheus:</h3>  An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
