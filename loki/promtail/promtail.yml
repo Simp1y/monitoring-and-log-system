@@ -4,7 +4,7 @@ server:
 positions:
   filename: /tmp/positions.yaml
 client:
-  url: http://138.197.179.157:7777/api/prom/push
+  url: http://138.197.179.157:3100/api/prom/push
 scrape_configs:
   - job_name: system
     entry_parser: raw
