@@ -103,7 +103,7 @@ services:
     command: -config.file=/etc/loki/loki-config.yml
     networks:
       - back-tier
-###***************Promtail***************###
+###**************Promtail***************###
   promtail:
     image: grafana/promtail:master
     volumes:
