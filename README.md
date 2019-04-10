@@ -1,6 +1,6 @@
 # Monitoring-and-log-system
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Simp1y/monitoring-and-log-system/blob/new/images/grafana-prometheus.jpg">
+  <img width="700" height="350" src="https://github.com/Simp1y/monitoring-and-log-system/blob/master/images/grafana-prometheus.jpg">
 </p>
 <h3>Grafana:</h3> The open platform for analytics and monitoring.
 
