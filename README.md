@@ -2,10 +2,9 @@
 <p align="center">
   <img width="700" height="350" src="https://github.com/Simp1y/monitoring-and-log-system/blob/master/images/grafana-prometheus.jpg">
 </p>
-## Grafana 
-The open platform for analytics and monitoring.
-- [Grafana docs](https://grafana.com/docs/)
-- [Grafana dashboards](https://grafana.com/dashboards)
+<h3>Grafana</h3> The open platform for analytics and monitoring.
+- [Grafana docs] (https://grafana.com/docs/)
+- [Grafana dashboards] (https://grafana.com/dashboards)
 
 <h3>Prometheus:</h3>  An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
 
