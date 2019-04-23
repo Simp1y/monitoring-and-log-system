@@ -16,7 +16,7 @@
  
 <h3>Google/cAdvisor:</h3> Analyzes resource usage and performance characteristics of running containers.
 
-<h3>worldPing</h3> Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
+<h2>worldPing</h2> Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
 
 You can use worldPing to get a real-time view of any endpoint's performance and availability. As often as every 10 seconds, we will test your application from dozens of Probes around the world, Alerting you in real-time if there are any outages or slow-downs.
 # Features
