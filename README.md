@@ -16,3 +16,24 @@
  
 <h3>Google/cAdvisor:</h3> Analyzes resource usage and performance characteristics of running containers.
 
+<h3>worldPing</h3> Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
+
+You can use worldPing to get a real-time view of any endpoint's performance and availability. As often as every 10 seconds, we will test your application from dozens of Probes around the world, Alerting you in real-time if there are any outages or slow-downs.
+# Features
+There’s no software or agent to install or configure. Be up and running with worldPing in less than 60 seconds. Just give us the domain name of your site or application, and we’ll automatically detect what to monitor.
+## Supported Protocols
+- Ping uptime and performance (eg. latency, loss, jitter)
+- DNS uptime and performance (eg. latency, responses)
+- HTTP and HTTPS (uptime and performance)
+### Alerting
+When you have a problem, worldPing will send you a high quality and speedy alert, configurable on a per-endpoint basis. It also helps triage by pinpointing the problem to a particular region or part of your stack.
+#### API Access
+Anything that you can do through the UI you can also do through our full featured HTTP API, docs can be found at [docs.worldping.apiary.io](http://docs.worldping.apiary.io)
+##### Requirements
+WorldPing requires only a [Grafana.com](https://grafana.com) account and [Grafana 3.x](https://grafana.com/grafana/download) to install. There are no other external dependencies, accounts or configuration needed.
+###### Documentation
+- [worldPing Usecases](http://worldping.raintank.io/worldping/use-cases)
+- [worldPing FAQ](https://grafana.com/cloud/worldping#FAQ)
+- [worldPing documentation](http://worldping.raintank.io/docs/)
+
+
