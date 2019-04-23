@@ -21,15 +21,26 @@ Prometheus exporter for machine metrics, written in Go with pluggable metric col
 ###### Documentation
 - [How to install and configure](https://prometheus.io/docs/guides/node-exporter/)
 
-<h3>Loki:</h3> Like Prometheus, but for logs. Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
+## Loki:
+Like Prometheus, but for logs. Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
+###### Documentation
+- [about Loki](https://grafana.com/loki#about)
 
-<h3>Promtail:</h3> Is the agent, responsible for gathering logs and sending them to Loki.
+## Promtail:
+Is the agent, responsible for gathering logs and sending them to Loki.
 
-<h3>Alertmanager:</h3> The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.
+## Alertmanager: 
+The Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.
+ ###### Documentation
+- [about Alertmanager](https://prometheus.io/docs/alerting/alertmanager/)
  
-<h3>Google/cAdvisor:</h3> Analyzes resource usage and performance characteristics of running containers.
+## Google/cAdvisor:
+Analyzes resource usage and performance characteristics of running containers.
+###### Documentation
+- [How to install and configure](https://prometheus.io/docs/guides/cadvisor/)
 
-<h2>worldPing</h2> Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
+## worldPing: 
+Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
 
 You can use worldPing to get a real-time view of any endpoint's performance and availability. As often as every 10 seconds, we will test your application from dozens of Probes around the world, Alerting you in real-time if there are any outages or slow-downs.
 ## Features worldPing plugin
