@@ -3,13 +3,17 @@
   <img width="700" height="350" src="https://github.com/Simp1y/monitoring-and-log-system/blob/master/images/grafana-prometheus.jpg">
 </p>
 
-## Grafana 
+## Grafana: 
 The open platform for analytics and monitoring.
 ###### Documentation
 - [Grafana docs](https://grafana.com/docs/)
 - [Grafana dashboards](https://grafana.com/dashboards)
 
-<h3>Prometheus:</h3>  An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+## Prometheus:
+An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+###### Documentation
+- [Prometheus docs](https://prometheus.io/docs/introduction/overview/)
+- [How to install and configure](https://devopscube.com/install-configure-prometheus-linux/)
 
 <h3>Node exporter:</h3> Prometheus exporter for machine metrics, written in Go with pluggable metric collectors.
 
