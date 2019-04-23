@@ -2,7 +2,8 @@
 <p align="center">
   <img width="700" height="350" src="https://github.com/Simp1y/monitoring-and-log-system/blob/master/images/grafana-prometheus.jpg">
 </p>
-<h3>Grafana:</h3> The open platform for analytics and monitoring.
+## Grafana 
+The open platform for analytics and monitoring.
 - [Grafana docs](https://grafana.com/docs/)
 - [Grafana dashboards](https://grafana.com/dashboards)
 
