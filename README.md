@@ -8,6 +8,7 @@ The open platform for analytics and monitoring.
 ###### Documentation
 - [Grafana docs](https://grafana.com/docs/)
 - [Grafana dashboards](https://grafana.com/dashboards)
+- [How to install and configure](https://grafana.com/docs/installation/)
 
 ## Prometheus:
 An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
@@ -15,7 +16,10 @@ An open-source monitoring system with a dimensional data model, flexible query l
 - [Prometheus docs](https://prometheus.io/docs/introduction/overview/)
 - [How to install and configure](https://devopscube.com/install-configure-prometheus-linux/)
 
-<h3>Node exporter:</h3> Prometheus exporter for machine metrics, written in Go with pluggable metric collectors.
+## Node exporter:
+Prometheus exporter for machine metrics, written in Go with pluggable metric collectors.
+###### Documentation
+- [How to install and configure](https://prometheus.io/docs/guides/node-exporter/)
 
 <h3>Loki:</h3> Like Prometheus, but for logs. Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
 
