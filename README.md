@@ -4,9 +4,9 @@
 </p>
 
 ## Docker-Compose:
-
+Compose is a tool for defining and running multi-container Docker applications. 
 ###### Documentation
-
+- [Docker docs](https://docs.docker.com/)
 ###### How to install and configure
 - [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [Docker-Compose](https://docs.docker.com/compose/install/)
