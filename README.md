@@ -19,7 +19,7 @@
 <h2>worldPing</h2> Is a plugin for Grafana that continually tests, stores and alerts on the global performance and availability of your Internet applications so you can pinpoint issues, fix them immediately, and improve your user’s experience.
 
 You can use worldPing to get a real-time view of any endpoint's performance and availability. As often as every 10 seconds, we will test your application from dozens of Probes around the world, Alerting you in real-time if there are any outages or slow-downs.
-# Features
+## Features worldPing plugin
 There’s no software or agent to install or configure. Be up and running with worldPing in less than 60 seconds. Just give us the domain name of your site or application, and we’ll automatically detect what to monitor.
 ## Supported Protocols
 - Ping uptime and performance (eg. latency, loss, jitter)
