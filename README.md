@@ -11,10 +11,10 @@ Compose is a tool for defining and running multi-container Docker applications.
 - [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [Docker-Compose](https://docs.docker.com/compose/install/)
 
-<p>Command too run: docker-compose -f monitoring.yml up -d</p>
-<p>Docker-Compose file: monitoring.yml</p>
-<p>Path to main config file for Prometheus: ./prometheus/prometheus.yml (all monitoring targets sets here)</p>
-<p>Path to main config file for Grafana: ./grafana/grafana.ini</p>
+Command too run: docker-compose -f monitoring.yml up -d<br>
+Docker-Compose file: monitoring.yml<br>
+Path to main config file for Prometheus: ./prometheus/prometheus.yml (all monitoring targets sets here)<br>
+Path to main config file for Grafana: ./grafana/grafana.ini</p>
 
 
 ## Grafana: 
