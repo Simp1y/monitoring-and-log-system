@@ -2,11 +2,15 @@
 <p align="center">
   <img width="700" height="350" src="https://github.com/Simp1y/monitoring-and-log-system/blob/master/images/grafana-prometheus.jpg">
 </p>
+
 ## Docker-Compose:
+
 ###### Documentation
+
 ###### How to install and configure
 - [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 - [Docker-Compose](https://docs.docker.com/compose/install/)
+
 Command too run: docker-compose -f monitoring.yml up -d
 Docker-Compose file: monitoring.yml
 Path to main config file for Prometheus: ./prometheus/prometheus.yml (all monitoring targets sets here)
